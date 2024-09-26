@@ -4,7 +4,7 @@ Bem-vindo ao meu repositório do projeto Hackatruck. Este espaço será utilizad
 
 ## Sobre o Projeto
 
-O Hackatruck é uma iniciativa educacional que visa capacitar desenvolvedores no ecossistema Swift. Organizado pelo Instituto Eldorado, o Hackatruck é um laboratório tecnológico itinerante que capacita em desenvolvimento Swift, iOS, Cloud Services, serviços cognitivos e IoT.
+O Hackatruck é uma iniciativa educacional que visa capacitar desenvolvedores no ecossistema Swift. Organizado pelo Instituto Eldorado em parceria com a IBM, o Hackatruck é um laboratório tecnológico itinerante que capacita em desenvolvimento Swift, iOS, Cloud Services, serviços cognitivos e IoT.
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/d72eeb2f-f173-4ed8-86ae-c75ed82efdab" width="45%">
@@ -35,4 +35,7 @@ O Hackatruck é uma iniciativa educacional que visa capacitar desenvolvedores no
 
 ## Resultados
 
-a inserir
+- **Aula 01**
+<img width="1156" alt="desafio 1" src="https://github.com/user-attachments/assets/967fb984-b833-4624-a2a6-35a8777b592f">
+
+
