@@ -37,7 +37,6 @@ O Hackatruck é uma iniciativa educacional que visa capacitar desenvolvedores no
 
 - **Projeto 01**
 <img width="1156" alt="desafio 1" src="https://github.com/user-attachments/assets/967fb984-b833-4624-a2a6-35a8777b592f">
-- **Projeto 02**
 https://github.com/user-attachments/assets/d32c5f47-e822-450f-91b9-1c6099de4aad
 
 
