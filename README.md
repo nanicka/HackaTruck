@@ -47,7 +47,25 @@ https://github.com/user-attachments/assets/ddbcd46e-d94d-45c1-9f08-2c3fc9dbaacf
   
 https://github.com/user-attachments/assets/ecad9ff5-8456-4bc4-b96a-044ca72ba1f4
 
+- **Projeto 04 - desafio 1.**
 
 
+https://github.com/user-attachments/assets/d7b4352f-979e-4d01-a9d5-6830e0c8bb1e
 
+- **Projeto 04 - Desafio 2. / Não finalizado.**
+
+  
+https://github.com/user-attachments/assets/64d35bae-6ca5-4019-8418-540695a42409
+
+
+- **Projeto 05**
+
+
+https://github.com/user-attachments/assets/e1fd1a2b-b191-41d5-9260-fab44067c84e
+
+
+- **Projeto 06**
+
+
+https://github.com/user-attachments/assets/cd0e2499-b220-4437-8fbd-006a81cde02f
 
