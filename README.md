@@ -7,9 +7,10 @@ Bem-vindo ao meu repositório do projeto Hackatruck. Este espaço será utilizad
 O Hackatruck é uma iniciativa educacional que visa capacitar desenvolvedores no ecossistema Swift. Organizado pelo Instituto Eldorado em parceria com a IBM, o Hackatruck é um laboratório tecnológico itinerante que capacita em desenvolvimento Swift, iOS, Cloud Services, serviços cognitivos e IoT.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/d72eeb2f-f173-4ed8-86ae-c75ed82efdab" width="45%">
-  <img src="https://github.com/user-attachments/assets/69efe4ea-0957-4607-8c86-b15b06d64255" width="45%">
+  <img src="https://github.com/user-attachments/assets/6d619643-ab1b-42bb-b3cb-f2e675e15775" width="45%">
+  <img src="https://github.com/user-attachments/assets/d1ad3477-211d-4fb0-b6f0-8ed5f790614a" width="45%">
 </p>
+
 
 
 
@@ -22,6 +23,7 @@ O Hackatruck é uma iniciativa educacional que visa capacitar desenvolvedores no
 - **Aula 04 - Desafio 2**: Projeo unindo NavigationStack e o NavigationLink.
 - **Aula 05**: Clone do Spotify, usando conceitos NavigationStack, Variaveis e Laços de repetição.
 - **Aula 06**: Maps, entendendo mais sobre o Maps no swiftui.
+- **Aula 07:** Usando API's para desenvolver um simples app.
 
 ## Como Executar
 
